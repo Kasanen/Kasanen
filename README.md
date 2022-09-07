@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasanen&show_icons=true&theme=synthwave&title_color=982a2a&text_color=214cb0&bg_color=e6a20f&hide_border=true&locale=fi&layout=compact" alt="kasanen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasanen&show_icons=true&locale=en" alt="kasanen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasanen&theme=dark" alt="kasanen" /></p>
