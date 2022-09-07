@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veijo</h1>
 <h3 align="center">A passionate fullstack developer from Finland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasanen&label=Profile%20views&color=eb770a&style=plastic" alt="kasanen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasanen&label=Katselukertaa&color=0aeb60&style=flat-square" alt="kasanen" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://public.bc.fi/s2000971/portfolio/](https://public.bc.fi/s2000971/portfolio/)
 
