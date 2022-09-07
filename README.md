@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasanen&label=Profile%20views&color=eb770a&style=plastic" alt="kasanen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasanen" alt="kasanen" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://public.bc.fi/s2000971/portfolio/](https://public.bc.fi/s2000971/portfolio/)
 
 - 📫 How to reach me **veijok119@gmail.com**
