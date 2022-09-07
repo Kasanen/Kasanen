@@ -5,7 +5,7 @@
 
 - 📚 Nykyinen opiskelu paikka: [Business College Helsinki](https://www.bc.fi/)
 
-- ⚡ Olen opiskellut Web-kehittämistä 3 vuotta.
+- ⚡ Olen opiskellut Web-kehittämistä 2 vuotta.
 
 <hr>
 
