@@ -40,7 +40,7 @@
 <br><br>
 📧 GMail : veijo.kasanen.04@gmail.com
 
-🔗 Portfolio : [https://public.bc.fi/s2000971/portfolio/](https://public.bc.fi/s2000971/portfolio/)
+🔗 Portfolio : [https://kasanen.github.io/](https://kasanen.github.io/)
 
 </div><br>
 
