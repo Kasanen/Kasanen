@@ -1,5 +1,4 @@
-<h1 align="center">Hei! 👋 Olen Veijo</h1>
-<h3 align="center">Olen 20 vuotias Web-kehittäjä!</h3>
+<h1 align="center">Tervetuloa!</h1>
 
 - 👍 Oma portfolio: [Portfolio](https://kasanen.github.io/)
 
