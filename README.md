@@ -1,13 +1,9 @@
 <h1 align="center">Hei! 👋 Olen Veijo</h1>
 <h3 align="center">Olen 20 vuotias Web-kehittäjä!</h3>
 
-- ✏️ Koulun portfolio: [Koulun Portfolio](https://public.bc.fi/s2000971/portfolio/)
-
 - 👍 Oma portfolio: [Portfolio](https://kasanen.github.io/)
 
-- 📚 Nykyinen opiskelu paikka: [Metropolia](https://www.metropolia.fi/)
-
-- ⚡ Olen opiskellut Web-kehittämistä 3 vuotta.
+- 📚 Opiskelu paikka: [Metropolia](https://www.metropolia.fi/)
 
 <hr>
 
