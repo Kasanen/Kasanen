@@ -2,7 +2,7 @@
 
 - 👍 Oma portfolio: [Portfolio](https://kasanen.github.io/)
 
-- 📚 Opiskelu paikka: [Metropolia](https://www.metropolia.fi/)
+- 📚 Opiskelupaikka: [Metropolia](https://www.metropolia.fi/)
 
 <hr>
 
